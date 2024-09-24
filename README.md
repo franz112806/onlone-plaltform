@@ -1,2 +1,2 @@
-# onlone-plaltform
+# online-plaltform
 voting system
